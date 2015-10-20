@@ -11,13 +11,11 @@ namespace RedisPoc
 {
     public partial class Form1 : Form
     {
-        static string _PersonalizationHost = "redis.leadsquared.co:6379";
-        RedisCache rc = new RedisCache(_PersonalizationHost);
+        private static string _PersonalizationHost = "redis.leadsquared.co:6379";
+        Tag rc = new Tag(_PersonalizationHost);
         public Form1()
         {
             InitializeComponent();
-
-
         }
 
         private void Form1_Load(object sender, EventArgs e)

@@ -10,7 +10,7 @@ namespace RedisPoc
     {
         private string _RedisHost;
 
-        Tag(String host)
+        public Tag(String host)
         {
             _RedisHost = host;
         }
@@ -24,13 +24,11 @@ namespace RedisPoc
 
         public string GetValueFromCache(string key) //redis get
         {
-            //string Value = null;
             List<string> Value = null;
             try
             {
                 using (RedisClient Client = GetRedisClientObject())
                 {
-                    //Value = Client.GetValue(key);
 
                     Value = Client.GetAllItemsFromList(key);
                 }
@@ -40,7 +38,7 @@ namespace RedisPoc
             catch (Exception ex)
             {
 
-                throw;
+                throw ex;
             }
         }
 
@@ -52,7 +50,6 @@ namespace RedisPoc
                 {
                     if (expireInHours == null || expireInHours.Value == 0)
                     {
-                        //client.SetEntry(key, value);
                         client.AddItemToList(key, value);
                     }
                     else
@@ -64,8 +61,7 @@ namespace RedisPoc
             }
             catch (Exception ex)
             {
-                ;
-                throw;
+                throw ex;
             }
         }
     }
