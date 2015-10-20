@@ -1,0 +1,16 @@
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\RedisPoc.exe
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\RedisPoc.pdb
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\ServiceStack.Interfaces.dll
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\ServiceStack.Redis.dll
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\ServiceStack.Text.dll
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\ServiceStack.Common.dll
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\ServiceStack.Interfaces.xml
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\ServiceStack.Redis.xml
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\ServiceStack.Text.xml
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\bin\Debug\ServiceStack.Common.xml
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\obj\x86\Debug\RedisPoc.csprojResolveAssemblyReference.cache
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\obj\x86\Debug\RedisPoc.Properties.Resources.resources
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\obj\x86\Debug\RedisPoc.csproj.GenerateResource.Cache
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\obj\x86\Debug\RedisPoc.exe
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\obj\x86\Debug\RedisPoc.pdb
+c:\users\gourav\documents\visual studio 2010\Projects\RedisPoc\RedisPoc\obj\x86\Debug\RedisPoc.Form1.resources
